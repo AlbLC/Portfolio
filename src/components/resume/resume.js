@@ -8,7 +8,7 @@ export default class resume extends Component {
   <section id="resume" className="s-resume target-section">
     <div className="row s-resume__section">
       <div className="column large-3 tab-12">
-        <h3 className="section-header-allcaps">Formacion</h3>
+        <h3 className="section-header-allcaps">Formación</h3>
       </div>
       <div className="column large-9 tab-12">
         <div className="resume-block">
@@ -22,14 +22,15 @@ export default class resume extends Component {
             </p>
           </div>
           <p>
-          El BootCamp de Full Stack Web Developer en The Bridge, es un curso intensivo de 4 meses donde he trabajando en diferentes proyectos, tanto a nivel individual como en equipo. 
-          En estos 4 meses he aprendido a usar distintas tecnologías y herramientas para el desarrollo web . La experiencia hacia el estudiante en un BootCamp se enfoca, no sólo en adquirir los conocimientos necesarios, sino en estar preparado para trabajar en el sector.
+          El BootCamp de Full Stack Web Developer en The Bridge, es un curso intensivo de 4 meses donde he trabajado en diferentes proyectos, tanto a nivel individual como en equipo. 
+          En estos 4 meses he aprendido a usar distintas tecnologías y herramientas para el desarrollo web. La experiencia hacia el estudiante en un BootCamp se enfoca, no solo en adquirir los conocimientos necesarios, 
+          sino en estar preparado para trabajar en el sector.
           </p>
         </div>{" "}
         {/* end resume-block */}
         <div className="resume-block">
           <div className="resume-block__header">
-            <h4 className="h3">Microelectronica nivel L2 avanzado</h4>
+            <h4 className="h3">Microelectrónica nivel L2 avanzado</h4>
             <p className="resume-block__header-meta">
               <span>Avacom</span>
               <span className="resume-block__header-date">
@@ -38,15 +39,15 @@ export default class resume extends Component {
             </p>
           </div>
           <p>
-            Master avanzado en la microelectronica de dispositivos moviles. 
-            Donde desarrolle y aplique la reparacion de componentes y circuitos de dimensiones microscopicas.
+          Máster avanzado en la microelectrónica de dispositivos móviles. 
+            Donde desarrolle y aplique la reparación de componentes y circuitos de dimensiones microscópicas.
           </p>
         </div>{" "}
         {/* end resume-block */}
         <div className="resume-block">
           <div className="resume-block__header">
-            <h4 className="h3">Tecnico en Explotacion de
-Sistemas Informaticos
+            <h4 className="h3">Técnico en Explotación de
+Sistemas Informáticos
 </h4>
             <p className="resume-block__header-meta">
               <span>IES Padre Suarez</span>
@@ -84,8 +85,8 @@ Sistemas Informaticos
           </div>
           <p>
           Trabaje tanto a nivel de software como a nivel de hardware. Diagnosticando problemas
-            , reparando ordenadores moviles tablet etc.. , haciendo mantenimientos y actualizando
-            todo tipo de equipos informaticos.
+           , reparando ordenadores, móviles, tablet, etc… , haciendo mantenimientos y actualizando
+            todo tipo de equipos informáticos.
           </p>
         </div>{" "}
         {/* end resume-block */}
@@ -98,8 +99,8 @@ Sistemas Informaticos
             </p>
           </div>
           <p>
-          Como gestor de datos use y desarrolle bases de datos. Dando acceso a otros usuarios 
-          y gestionando los datos que habia.
+          Como gestor de datos, use y desarrolle bases de datos. Dando acceso a otros usuarios 
+          y gestionando los datos que había.
           </p>
         </div>{" "}
         {/* end resume-block */}

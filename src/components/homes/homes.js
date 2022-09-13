@@ -13,12 +13,12 @@ export default class homes extends Component {
           <h1>Alberto Lara.</h1>
           <h3>
             Soy un <span>Full Stack Web Developer</span>, con conocimientos en las {" "}
-            <span>Tecnologias</span> mas demandas para el desarrollo de apliciones<span> Web. </span> 
-            Sigueme y podras{" "}
+            <span>Tecnologías</span> mas demandas para el desarrollo de aplicaciones<span> Web. </span> 
+            Sígueme y podrás{" "}
             <a className="smoothscroll" href="#about">
             descubrir{" "}
             </a>
-            mucho mas {" "}
+            mucho más {" "}
             <a className="smoothscroll" href="#about">
             sobre mi
             </a>

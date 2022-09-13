@@ -14,7 +14,7 @@ export default class header extends Component {
     <div className="row s-contact__content">
       <div className="column large-7 medium-12">
         <h4 className="huge-text">
-        ¿Tienes un nuevo proyecto en mente? Colaboremos y construyamos algo.
+        ¿Tienes un nuevo proyecto en mente? Colaboremos y construyamos algo
           increíble. Convirtamos esa idea en un producto aún mejor :)
         </h4>
       </div>
