@@ -29,7 +29,7 @@ export default class about extends Component {
                   </p>
                 </div>
                 <div className="column w-1000-stack">
-                  <a href="https://drive.google.com/drive/u/0/my-drive" className="btn btn--download">
+                  <a href="https://drive.google.com/file/d/1PDcVjKmHA3zN5hl1W2qA-2cSXJk8Ulg_/view?usp=share_link" className="btn btn--download">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width={24}
